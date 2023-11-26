@@ -1,5 +1,3 @@
-# Part 2
-
 import matplotlib.pyplot as pp
 import re
 import numpy as np
